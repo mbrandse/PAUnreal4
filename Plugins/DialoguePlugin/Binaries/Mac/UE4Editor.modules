@@ -1,0 +1,8 @@
+{
+	"BuildId": "8386587",
+	"Modules": 
+	{
+		"DialoguePlugin": "UE4Editor-DialoguePlugin.dylib",
+		"DialoguePluginEditor": "UE4Editor-DialoguePluginEditor.dylib"
+	}
+}
